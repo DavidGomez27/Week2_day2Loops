@@ -176,6 +176,31 @@ namespace Week2_day2Loops
             //Console.WriteLine("The loop has finished.");
 
 
+            //nested loops
+
+            //for(int i = 1; i<=2; i++)
+            //{
+            //    for (int j = 1; j <= 4; j++)
+            //    {
+            //        Console.Write(j); //Write for columns
+            //    }
+            //    Console.WriteLine(); //next row
+            //}
+
+
+
+            //int n = int.Parse(Console.ReadLine());
+            //for (int row = 1; row <= n; row++)
+            //{
+            //    for (int col = 1; col <= row; col++)
+            //    {
+            //        Console.Write(col + " ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+
 
 
 
