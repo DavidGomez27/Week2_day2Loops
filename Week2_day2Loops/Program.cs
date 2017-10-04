@@ -120,17 +120,64 @@ namespace Week2_day2Loops
 
 
 
-            string playAgain;
-            do
-            {
-                
-                Console.WriteLine("Great game!");
-                Console.WriteLine("Do you want to play again? (yes/no)");
-                playAgain = Console.ReadLine();
-            }
-            while (playAgain == "yes");
+            //string playAgain;
+            //do
+            //{
 
-            Console.WriteLine("Thanks for playing the game");
+            //    Console.WriteLine("Great game!");
+            //    Console.WriteLine("Do you want to play again? (yes/no)");
+            //    playAgain = Console.ReadLine();
+            //}
+            //while (playAgain == "yes");
+
+            //Console.WriteLine("Thanks for playing the game");
+
+
+
+            //string addClass;
+            //do
+            //{
+            //    Console.WriteLine("What class would you like to add to your GPA calculation?");
+            //    Console.ReadLine();
+            //    Console.WriteLine("What is the letter grade of class?");
+            //    Console.ReadLine();
+            //    Console.WriteLine("Do you have another class you would like to add to calculation?");
+            //    addClass = Console.ReadLine().ToLower();
+            //}
+
+            //while (addClass == "yes");
+            //Console.WriteLine("Thank you for your grades.");
+
+            ////To print just odd numbers. whenver an even number is hit, the "continue command will continue past it
+            //for (int i = 0; i <= 20; i++) 
+            //{
+            //    if(i % 2 == 0)
+            //    {
+            //        continue;
+            //    }
+            //    Console.WriteLine(i);
+
+            //}
+
+            //Console.WriteLine("The loop has finished.");
+
+
+            ////Use break to break a loop once it no longer meets the condition
+            //for (int i = 1; i <= 20; i++)
+            //{
+            //    if (i % 14 == 0)
+            //    {
+            //        break;
+            //    }
+            //    Console.WriteLine(i);
+
+            //}
+
+            //Console.WriteLine("The loop has finished.");
+
+
+
+
 
 
 
